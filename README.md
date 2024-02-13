@@ -6,7 +6,7 @@ Welcome to my professional portfolio! Here, you'll find an overview of key proje
 
 ### 1C:Analytics
 
-![1C:Analytics](https://analytics.demo.1c.ru/analytics/en_US/)
+[1C:Analytics](https://analytics.demo.1c.ru/analytics/ans)
 
 **Description:** A robust business intelligence system developed at 1C Company, designed for efficient analytical data processing and management accounting. It seamlessly integrates with the 1C:Enterprise 8 platform, ensuring comprehensive compatibility across various devices.
 
@@ -19,7 +19,7 @@ Welcome to my professional portfolio! Here, you'll find an overview of key proje
 
 ### WB Stream Beta Version
 
-![WB Stream Beta Version](https://beta-stream.wb.ru/)
+[WB Stream Beta Version](https://beta-stream.wb.ru/)
 
 **Description:** The beta version of a video conferencing product I've been developing over the last 3 months.
 
@@ -35,7 +35,7 @@ Welcome to my professional portfolio! Here, you'll find an overview of key proje
 
 #### Web Application: WB Point
 
-![WB Point](https://point.wb.ru/)
+[WB Point](https://point.wb.ru/)
 
 - **Link:** [WB Point](https://point.wb.ru/)
 
@@ -48,7 +48,7 @@ Developed with React-Native + Expo for both Android and iOS platforms.
 
 #### Wildberries Heat Map
 
-![Wildberries Heat Map](https://pvz-stat-map.wildberries.ru/#9.43/54.6553/47.8766)
+[Wildberries Heat Map](https://pvz-stat-map.wildberries.ru/#9.43/54.6553/47.8766)
 
 A tool that assists our partners in selecting locations for opening stores and includes an auction feature for selling stores.
 
