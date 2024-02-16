@@ -27,11 +27,11 @@ Welcome to my professional portfolio! Here, you'll find an overview of key proje
 
 **1C:Analytics for 1C:Enterprise 8:** A new interface for management and accounting systems that simplifies the process of quickly building analytical reports and interactive data analysis "on the fly" in the 1C:Enterprise 8 information base. It's primarily aimed at employees involved in sales analysis, profitability, turnover, and other key performance indicators of companies.
 
-### WB Stream Beta Version
+### WB Stream
 
-[WB Stream Beta Version](https://beta-stream.wb.ru/)
+[WB Stream](https://stream.wb.ru/)
 
-### WB Stream Beta Version
+### WB Stream
 
 **Description:** Communicate on our terms with WB Stream, a free online meeting, video conferencing, and broadcasting service created by Wildberries. This platform offers a diverse and useful set of features and tools to help you comfortably host or participate in online events.
 
@@ -43,7 +43,7 @@ Welcome to my professional portfolio! Here, you'll find an overview of key proje
 
 **Join Us:** Try Stream now by inviting someone for a chat. Share with friends, colleagues, and clients, and explore the seamless communication experience WB Stream offers.
 
-**Access:** [WB Stream Beta Version](https://beta-stream.wb.ru/) - Experience the platform and its evolving features by visiting the link or downloading the app for your device.
+**Access:** [WB Stream](https://stream.wb.ru/) - Experience the platform and its evolving features by visiting the link or downloading the app for your device.
 
 ### My Previous Projects at Wildberries
 
